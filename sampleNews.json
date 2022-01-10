@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": null, "name": "NDTV News" },
+      "author": "Aakash Arya",
+      "title": "\"We Were In A State Of Shock\": Ravi Shastri Reveals \"Lowest Point\" As Team India Coach - NDTVSports.com",
+      "description": "Former head coach of the Indian men's cricket team Ravi Shastri revealed the \"lowest point\" during his tenure.",
+      "url": "https://sports.ndtv.com/cricket/ravi-shastri-reveals-lowest-point-as-team-india-coach-2640892",
+      "urlToImage": "https://c.ndtvimg.com/2021-12/piaffgps_india_625x300_07_December_21.jpg",
+      "publishedAt": "2021-12-07T13:21:00Z",
+      "content": "Ex-Team India all-rounder Ravi Shastri spoke honestly about the highs and lows during his tenure as the head coach of the Indian cricket team. Shastri talked about the Test series in Australia which … [+1841 chars]"
+    },
+    {
+      "source": { "id": "the-times-of-india", "name": "The Times of India" },
+      "author": "Gaurav Gupta",
+      "title": "'There was a climate of fear': Ajaz Patel recalls Christchurch mosque attack - Times of India",
+      "description": "Cricket News: It's been close to three years since two consecutive mass shootings that occurred at mosques in a terror attack in Christchurch resulted in the death",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/new-zealand-in-india/there-was-a-climate-of-fear-ajaz-patel-recalls-christchurch-mosque-attack/articleshow/88146591.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-88146698,width-1070,height-580,imgsize-32750,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2021-12-07T12:29:00Z",
+      "content": "In the spotlight: Prominent Indian-origin spinners representing other nationsMumbai-born New Zealand player Ajaz Patel recently etched his name in the history books, becoming only the third bowler ev… [+176 chars]"
+    },
+    {
+      "source": { "id": null, "name": "India.com" },
+      "author": "Zee Media Bureau",
+      "title": "Sachin Tendulkar`s daughter Sara Tendulkar`s glamourous modelling debut video breaks internet, video goes v... - Zee News",
+      "description": "The legendary Indian cricketer Sachin Tendulkar s gorgeous daughter Sara is surely social media s favourite. She has several fan pages dedicated to her and paps love to click her in and around the city.",
+      "url": "https://zeenews.india.com/people/sachin-tendulkars-daughter-sara-tendulkars-glamourous-modelling-debut-video-breaks-internet-video-goes-viral-watch-2416844.html",
+      "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2021/12/07/993686-sara-tendulkar.jpg",
+      "publishedAt": "2021-12-07T06:38:03Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "hindustantimes.com",
+      "title": "How Ravichandran Ashwin's stunning act helped Ajaz Patel is getting a verified blue tick on his Twitter handle - Hindustan Times",
+      "description": "Courtesy of Ashwin, who made a hilarious request to Twitter Verified soon after Ajaz's historic ten-wicket haul, the spinner go a verified blue tick on his social media handle. | Cricket",
+      "url": "https://www.hindustantimes.com/cricket/r-ashwin-helps-ajaz-patel-s-twitter-handle-get-a-verified-blue-tick-101638853740469.html",
+      "urlToImage": "https://images.hindustantimes.com/img/2021/12/07/1600x900/FF6GF8bVIAMJMVS_1638853835875_1638853853167.jpg",
+      "publishedAt": "2021-12-07T05:31:18Z",
+      "content": "Besides the bag full of memories of coming back to his birthplace, and etching his name in history with a performance of a lifetime, young New Zealand spinner Ajaz Patel left India with one other thi… [+1982 chars]"
+    }
+  ]
+}
